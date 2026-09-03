@@ -1,4 +1,4 @@
-Data Analyst | Business Intelligence | Healthcare & Operations Analytics
+# Data Analyst | Business Intelligence | Healthcare & Operations Analytics
 
 I transform business, healthcare and operational data into clear insights, dashboards and decision-support solutions.
 
@@ -25,7 +25,7 @@ Data Analysis and Machine Learning: Python
 - British Airways PostgreSQL Analysis
 - Pizza Place Sales Performance Analysis Python
 
-## Analytics Applications
+## Analytics Applications / Machine Learning Projects 
 
 - Terry's Apparel E-Commerce Growth Simulator
 - Machine Learning Fraud Detection Transaction Screening App
