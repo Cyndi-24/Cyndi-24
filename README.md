@@ -15,7 +15,7 @@ Data Analysis and Machine Learning: Python
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
 - Osteoporosis Data Quality Analysis Power BI
-- 
+  
 ## Business Intelligence & Data Analytics Projects
 
 - AdventureWorks Sales & Customer Analysis Power BI
