@@ -15,6 +15,7 @@ Data Analysis and Machine Learning: Python
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
 - Osteoporosis Data Quality Analysis Power BI
+- - Stroke Risk Prediction 
   
 ## Business Intelligence & Data Analytics Projects
 
@@ -30,6 +31,4 @@ Data Analysis and Machine Learning: Python
 - Terry's Apparel E-Commerce Growth Simulator
 - Machine Learning Fraud Detection Transaction Screening App
 
-## Collaborative Projects
 
-- Stroke Risk Prediction
