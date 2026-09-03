@@ -15,7 +15,7 @@ Data Analysis and Machine Learning: Python
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
 - Osteoporosis Data Quality Analysis Power BI
-- - Stroke Risk Prediction 
+- Stroke Risk Prediction (Machine Learning)
   
 ## Business Intelligence & Data Analytics Projects
 
