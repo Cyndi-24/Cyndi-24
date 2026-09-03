@@ -2,7 +2,7 @@
 
 I transform business, healthcare and operational data into clear insights, dashboards and decision-support solutions.
 
-With a background in pharmacy and experience in business management and operations, I combine domain knowledge with analytical tools to understand  and solve the real problems behind the data not just produce charts.
+With a background in pharmacy and experience in business management and operations, I combine domain knowledge with analytical tools to understand  and solve the real problems behind the data.
 
 Tools: 
 Data analysis and visualization: Power BI, Excel, Tableau
