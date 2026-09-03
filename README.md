@@ -1,4 +1,4 @@
-# Data Analyst | Business Intelligence | Healthcare & Operations Analytics
+## Data Analyst | Business Intelligence | Healthcare & Operations Analytics
 
 I transform business, healthcare and operational data into clear insights, dashboards and decision-support solutions.
 
