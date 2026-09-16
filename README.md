@@ -33,6 +33,6 @@ With a background in pharmacy and experience in business management and operatio
 ## Analytics Applications / Machine Learning Projects 
 
 - Terry's Apparel E-Commerce Growth Simulator
-- Machine Learning Fraud Detection Transaction Screening App
+- Fraud Detection Transaction Screening App
 
 
