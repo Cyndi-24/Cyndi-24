@@ -19,7 +19,7 @@ With a background in pharmacy and experience in business management and operatio
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
 - Osteoporosis Data Quality Analysis Power BI
-- Stroke Risk Prediction (Machine Learning)
+- Stroke Risk Prediction (Collaborative Machine Learning)
   
 ## Business Intelligence & Data Analytics Projects
 
