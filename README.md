@@ -6,13 +6,14 @@ With a background in pharmacy and experience in business management and operatio
 
 ## Tools
 
-Data cleaning and preparation: Excel,Power Query,Python
 
-Data analysis and visualization: Power BI, Excel, Tableau
+- Data cleaning and preparation: Excel,Power Query,Python
 
-Data querying: SQL
+- Data analysis and visualization: Power BI, Excel, Tableau
 
-Data Analysis and Machine Learning: Python
+- Data querying: SQL
+
+- Data Analysis and Machine Learning: Python
 
 ## Healthcare Analytics Projects
 
