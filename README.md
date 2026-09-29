@@ -18,7 +18,7 @@ With a background in pharmacy and experience in business management and operatio
 ## Healthcare Analytics Projects
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
-- Osteoporosis Data Quality Analysis Power BI
+- Osteoporosis Risk Analysis & Data Validation Study -Power-BI
 
 ## Business Intelligence & Data Analytics Projects
 
