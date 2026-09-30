@@ -7,11 +7,8 @@ With a background in pharmacy and experience in business management and operatio
 ## Tools
 
 - Data cleaning and preparation: Excel, Power Query, Python
-
 - Data analysis and visualization: Power BI, Excel, Looker Studio, Tableau
-
 - Data querying: SQL
-
 - Data Analysis and Machine Learning: Python
 
 ## Business Intelligence & Data Analytics 
