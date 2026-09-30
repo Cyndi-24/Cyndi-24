@@ -23,12 +23,12 @@ With a background in pharmacy and experience in business management and operatio
 
 ## Business Intelligence & Data Analytics Projects
 
-- Nova Pharma Global Performance Analysis 
+- Nova Pharma Global Performance Analysis - Power BI
 - AdventureWorks Sales & Customer Analysis Power BI
 - Sports Sales Performance Analysis Excel
 - Instacart Data Analysis SQL
 - Airbnb Seattle Market Analysis Tableau Dashboard
-- British Airways PostgreSQL Analysis
+- Pizza Place Sales Analysis - Python 
 
 ## Analytics Applications / Machine Learning Projects 
 
