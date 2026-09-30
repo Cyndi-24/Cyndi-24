@@ -19,15 +19,16 @@ With a background in pharmacy and experience in business management and operatio
 
 - HCAHPS Hospital Patient Experience Analysis Using Excel
 - Osteoporosis Risk Analysis & Data Validation Study -Power-BI
+- Healthcare Geospatial Analysis - Looker Studio 
 
 ## Business Intelligence & Data Analytics Projects
 
+- Nova Pharma Global Performance Analysis 
 - AdventureWorks Sales & Customer Analysis Power BI
 - Sports Sales Performance Analysis Excel
 - Instacart Data Analysis SQL
 - Airbnb Seattle Market Analysis Tableau Dashboard
 - British Airways PostgreSQL Analysis
-- Pizza Place Sales Performance Analysis Python
 
 ## Analytics Applications / Machine Learning Projects 
 
