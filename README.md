@@ -6,7 +6,6 @@ With a background in pharmacy and experience in business management and operatio
 
 ## Tools
 
-
 - Data cleaning and preparation: Excel, Power Query, Python
 
 - Data analysis and visualization: Power BI, Excel, Looker Studio, Tableau
@@ -15,22 +14,22 @@ With a background in pharmacy and experience in business management and operatio
 
 - Data Analysis and Machine Learning: Python
 
-## Healthcare Analytics Projects
-
-- HCAHPS Hospital Patient Experience Analysis Using Excel
-- Osteoporosis Risk Analysis & Data Validation Study -Power-BI
-- Healthcare Geospatial Analysis - Looker Studio 
-
-## Business Intelligence & Data Analytics Projects
+## Business Intelligence & Data Analytics 
 
 - Nova Pharma Global Performance Analysis - Power BI
 - AdventureWorks Sales & Customer Analysis Power BI
 - Sports Sales Performance Analysis Excel
 - Instacart Data Analysis SQL
 - Airbnb Seattle Market Analysis Tableau Dashboard
-- Pizza Place Sales Analysis - Python 
+- Pizza Place Sales Analysis - Python
 
-## Analytics Applications / Machine Learning Projects 
+## Healthcare Analytics 
+
+- HCAHPS Hospital Patient Experience Analysis Using Excel
+- Osteoporosis Risk Analysis & Data Validation Study -Power-BI
+- Healthcare Geospatial Analysis - Looker Studio
+  
+## Analytics Applications / Machine Learning
 
 - Terry's Apparel E-Commerce Growth Simulator
 - Fraud Detection Transaction Screening App
