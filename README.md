@@ -28,5 +28,6 @@ With a background in pharmacy and experience in business management and operatio
 
 ## Analytics Applications
 
-- **Terry's Apparel E-Commerce Growth Simulator** — Business Intelligence | Scenario Modelling
-- **Fraud Detection Transaction Screening App** — Machine Learning | Classification
+ **Terry's Apparel E-Commerce Growth Simulator** — BI | Scenario Modelling | Python 
+
+ **Fraud Detection Transaction Screening App** — Machine Learning | Classification
