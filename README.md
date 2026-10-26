@@ -1,8 +1,8 @@
 # Data Analytics Portfolio 
 
-I transform messy business, healthcare and operational data into clear insights, dashboards and decision-support solutions.
+I combine data, analytical thinking, and technical expertise to solve business problems, improve processes, and support better decisions.
 
-With a background in pharmacy and experience in business management and operations, I bring both domain context and analytical thinking to my work fromm cleaning and preparing raw data to uncovering the problem behind the numbers and turning the findings into practical insights.
+My background in pharmacy and hands-on experience managing business activities have shaped how I approach challenges beyond the numbers. Through data analytics, business intelligence, and data science, I identify performance gaps, uncover growth opportunities, and develop practical solutions, from interactive dashboards and analytical applications to automated business systems.
 
 ## Tools
 
