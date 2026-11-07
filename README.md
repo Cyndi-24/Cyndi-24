@@ -22,4 +22,4 @@ My clinical background in Pharmacy and hands-on experience managing business act
 ## Analytics Applications
 
  - Terry's Apparel E-Commerce Growth Simulator — BI | Scenario Modelling | Python 
- - Fraud Detection Transaction Screening App — Machine Learning | Classification
+ - Fraud Detection Transaction Screening App — Machine Learning | Python 
