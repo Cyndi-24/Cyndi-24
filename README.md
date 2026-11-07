@@ -6,11 +6,11 @@ My clinical background in Pharmacy and hands-on experience managing business act
 
 ## Data Analytics & Business Intelligence
 
-- Nova Pharma Global Performance Analysis - Power BI
+- Nova Pharma Global Performance Analysis Power BI
+- Automated Excel Inventory Tracking System
 - AdventureWorks Sales & Customer Analysis Power BI
 - Sports Sales Performance Analysis Excel
 - Instacart Data Analysis SQL
-- Airbnb Seattle Market Analysis - Tableau
 - Pizza Place Sales Analysis - Python
 
 ## Healthcare Analytics 
