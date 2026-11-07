@@ -1,10 +1,10 @@
 # Data Analytics Portfolio 
 
-I combine data, analytical thinking, and technical expertise to investigate data, uncover insights, solve practical problems, and develop solutions that support better decisions.
+I combine data, analytical thinking, and technical expertise to investigate data, uncover patterns and insights, solve practical problems, and develop solutions that support better decisions.
 
-My clinical background in Pharmacy and hands-on experience managing business activities have shaped how I approach challenges beyond the numbers. Working with Excel, SQL, Python, Power BI, and other analytical tools, My work spans data analytics, business intelligence, data science, interactive dashboards and applications, and automated tracking systems.
+My clinical background in Pharmacy and hands-on experience managing business activities have shaped how I approach challenges beyond the numbers. My work spans data analytics, business intelligence and data science with the focus of delivering practical value. Working with Excel, SQL, Python and Power BI, I transform and query data, build interactive dashboards ,analytical applications, and automated tracking systems.
 
-## Business Intelligence & Data Analytics 
+## Data Analytics 
 
 - Nova Pharma Global Performance Analysis - Power BI
 - AdventureWorks Sales & Customer Analysis Power BI
