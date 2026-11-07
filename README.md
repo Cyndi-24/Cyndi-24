@@ -1,8 +1,8 @@
 # Data Analytics Portfolio 
 
-I combine data, analytical thinking, and technical expertise to solve business problems, improve processes, and support better decisions.
+I combine data, analytical thinking, and technical expertise to investigate data, uncover insights, solve practical problems, and develop solutions that support better decisions.
 
-My background in pharmacy and hands-on experience managing business activities have shaped how I approach challenges beyond the numbers. Through data analytics, business intelligence, data science and tools such as Excel, SQL, Python, Power BI. I identify performance gaps, uncover growth opportunities, and develop practical solutions, from interactive dashboards and analytical applications to automated business systems.
+My clinical background in Pharmacy and hands-on experience managing business activities have shaped how I approach challenges beyond the numbers. Working with Excel, SQL, Python, Power BI, and other analytical tools, My work spans data analytics, business intelligence, data science, interactive dashboards and applications, and automated tracking systems.
 
 ## Business Intelligence & Data Analytics 
 
